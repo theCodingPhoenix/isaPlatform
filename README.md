@@ -35,6 +35,13 @@ Option to create a member account from home - on selecting Sign Up
 + Features
   + Invest
   + Withdraw
+
+ ## Setup investment
+ 
+
+
+ ###### Enhancements 
+ + When setting up there can be risk/return analyser to be able to make better suggestions about the kind of investments best suited to the customer's appetite
  
 
   
