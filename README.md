@@ -36,11 +36,12 @@ Option to create a member account from home - on selecting Sign Up
   + Invest
   + Withdraw
 
- ## Setup investment
- 
+## Setup Investment
++ Select risk level -> Select type of fund -> Select investment amount
++ Currently there's only 1 type of fund available (the equities fund) for retail customers
 
 
- ###### Enhancements 
+ ## Enhancements 
  + When setting up there can be risk/return analyser to be able to make better suggestions about the kind of investments best suited to the customer's appetite
  
 
