@@ -1,7 +1,7 @@
 # isaPlatform
 
 
-## Registeration page
+## Registration page
 
 Option to create a member account 
 
