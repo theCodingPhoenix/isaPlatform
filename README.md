@@ -3,9 +3,8 @@
 A proposal to enable retail customers to open ISAs (in extension of current functionality of ISAs available to Employees of Customers)
 
 
-## Registration Info Page
-
-Option to create a member account 
+## Registration Info
+Option to create a member account from home - on selecting Sign Up
 
 + Self-operated
 + Advisor operated
@@ -17,7 +16,7 @@ Option to create a member account
 * Platform provides advisor based service
 * Pricing plans include extra costs of management and support provided by Advisors 
 
-## Registration Page
+## Registration
 + Name, Email, Phone number, Password
 + Form validation
   + Phone number to be valid
@@ -32,6 +31,9 @@ Option to create a member account
 + Allowances
 + Growth / Performances 
 + Projections
++ Features
+  + Invest
+  + Withdraw
  
 
   
