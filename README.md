@@ -27,6 +27,9 @@ Option to create a member account from home - on selecting Sign Up
   + fields shouldn't be empty
 + Fee structure
 
+## Payment / Bank Details
++ In order for customers to put cash into the ISA
+
 ## Dashboard
 + Contributions (list of funds and corresponding amount invested)
 + Allowances
@@ -46,6 +49,6 @@ Option to create a member account from home - on selecting Sign Up
  + Security
    + 2FA
    + Password change after X days (can be set by user from a preset duration list)
- 
+ + We can extend to customers wanting a transfer of ISA to our platform, current scenario only considers new ISAs
 
   
