@@ -17,7 +17,7 @@ Option to create a member account from home - on selecting Sign Up
 * Pricing plans include extra costs of management and support provided by Advisors 
 
 ## Registration
-+ Name, Email, Phone number, Password, Address, DoB
++ Name, Email, Phone number, Password, Address, DoB, NI Number
 + Form validation
   + Phone number to be valid
   + Password should be secure
