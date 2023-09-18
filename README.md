@@ -43,6 +43,9 @@ Option to create a member account from home - on selecting Sign Up
 
  ## Enhancements 
  + When setting up there can be risk/return analyser to be able to make better suggestions about the kind of investments best suited to the customer's appetite
+ + Security
+   + 2FA
+   + Password change after X days (can be set by user from a preset duration list)
  
 
   
