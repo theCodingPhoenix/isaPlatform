@@ -31,7 +31,7 @@ Option to create a member account from home - on selecting Sign Up
 + In order for customers to put cash into the ISA
 
 ## Dashboard
-+ Contributions (list of funds and corresponding amount invested)
++ Contributions (list of funds and corresponding amount invested) 
 + Allowances
 + Growth / Performances 
 + Projections
@@ -42,6 +42,7 @@ Option to create a member account from home - on selecting Sign Up
 ## Setup Investment
 + Select risk level -> Select type of fund -> Select investment amount
 + Currently there's only 1 type of fund available (the equities fund) for retail customers
++ Possibility of setting up regular payments? (preset duration, amount can be manually entered, ensuring it's within the allowed limit)
 
 
  ## Enhancements 
@@ -50,5 +51,8 @@ Option to create a member account from home - on selecting Sign Up
    + 2FA
    + Password change after X days (can be set by user from a preset duration list)
  + We can extend to customers wanting a transfer of ISA to our platform, current scenario only considers new ISAs
+ + Ability to send messages to the customer directly within the platform
+ + Documents upload (from both parties)
+ + Once multiple funds can be invested in we can start building Portfolio section
 
   
